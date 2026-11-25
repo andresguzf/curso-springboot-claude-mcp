@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "facturacion": {
+      "type": "http",
+      "url": "http://localhost:8090/mcp"
+    },
+    "supabase": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=<ref-de-tu-proyecto>&features=docs%2Caccount%2Cdatabase%2Cdebugging%2Cdevelopment%2Cfunctions%2Cbranching%2Cfeedback%2Cnotebooks"
+    }
+  }
+}
